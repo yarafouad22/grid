@@ -45,6 +45,7 @@ width: 50%;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
     gap: 25px;
+    margin-top: 160px;
 }
 .dashboard-layout{
   grid-template-columns: 1fr;
