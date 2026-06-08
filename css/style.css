@@ -524,6 +524,7 @@ margin-bottom: 20px;
     grid-template-columns: 2fr 2fr 2fr;
     gap: 20px;
      height: auto;
+     margin-bottom: 30px;
 }
 
 .col-1{
@@ -875,7 +876,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .total-2{
   background-color: #F9FAFB;
-  border: #b8b8b8;
+  border:1px solid #dbdbdb;
   border-radius: 12px;
   padding: 10px;
   margin-bottom: 10px;
