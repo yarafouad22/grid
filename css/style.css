@@ -352,7 +352,9 @@ margin-bottom: 20px;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   justify-content: center;
+  justify-items: center;
   align-items: center;
+  align-content: center;
   text-align: center;
   margin-top: 10px;
  }
@@ -360,7 +362,7 @@ margin-bottom: 20px;
   background-color:#F9FAFB;
   border: 1px solid #F3F4F6;
   border-radius: 20px;
-  height: 120px;
+  height: auto;
   width: 150px;
 }
 .icon-bill{

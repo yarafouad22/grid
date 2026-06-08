@@ -88,12 +88,22 @@ color: #c0c0c0;
 .transactions{
    overflow-x: auto;
    scroll-behavior: smooth;
+   
+}
+.due{
+    font-size: 12px;
+}
+.transactions-header a{
+display: none;
 }
 .icon-7{
   background-color: #F3E8FF;
   width: 130px;
   padding: 3px;
   color:#8F47C4 ;
+}
+.pay{
+    margin-top: 1px;
 }
 .final-layout{
     display: grid;
