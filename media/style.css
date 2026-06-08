@@ -86,7 +86,14 @@ color: #c0c0c0;
    
 }
 .transactions{
-    overflow: hidden;
+   overflow-x: auto;
+   scroll-behavior: smooth;
+}
+.icon-7{
+  background-color: #F3E8FF;
+  width: 130px;
+  padding: 3px;
+  color:#8F47C4 ;
 }
 .final-layout{
     display: grid;

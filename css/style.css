@@ -18,7 +18,6 @@ background-color: #F9FAFB;
     grid-template-areas:
         "sidebar header"
         "sidebar main";
-
     min-height: 100vh;
 }
 .sidebar{
